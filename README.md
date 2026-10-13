@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sanjai-E242&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sanjai-E242&label=Profile%20views&color=6C3BFF&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/Sanjai-E242?tab=followers"><img src="https://img.shields.io/github/followers/Sanjai-E242?style=for-the-badge&color=4F46E5&label=FOLLOWERS" alt="Followers"/></a>
 <a href="https://github.com/Sanjai-E242?tab=repositories"><img src="https://img.shields.io/github/stars/Sanjai-E242?style=for-the-badge&color=7C3AED&label=REPOSITORY+STARS" alt="Stars"/></a>
 
