@@ -474,57 +474,72 @@ AWS, Oracle, and Cisco certifications can be added when completed credentials ar
 
 ---
 
-## 09. GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjai-E242&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=6366F1&rank_icon=github" height="180" alt="Sanjai's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-E242&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Most used programming languages" />
+</p>
 
-<a href="https://github.com/Sanjai-E242">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanjai-E242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sanjai-E242&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+</p>
 
-<a href="https://github.com/Sanjai-E242">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-E242&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages"/>
-</a>
 
-<br/>
+<h2>📈 Contribution Activity</h2>
 
-<img src="https://streak-stats.demolab.com?user=Sanjai-E242&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
+<p align="center">
+  <a href="https://github.com/Sanjai-E242">
+    <img src="https://ghchart.rshah.org/8B5CF6/Sanjai-E242" alt="Sanjai's GitHub contribution chart" width="100%" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Sanjai-E242">View full contribution history on GitHub</a>
+</p>
 
----
 
-## 10. GitHub Trophies
 
-<div align="center">
+<h2>🏆 GitHub Achievements</h2>
 
-[🏆 View my GitHub profile and achievements](https://github.com/Sanjai-E242)
+<p align="center">
+  <a href="https://github.com/Sanjai-E242">
+    View my GitHub profile and achievements
+  </a>
+</p>
 
-</div>
-
----
-
-## 11. Contribution Activity
-
-<div align="center">
-
-[📊 View my GitHub contribution activity](https://github.com/Sanjai-E242/)
-
-</div>
-
----
-
-## 12. Contribution Snake
+<p align="center">
+  <a href="https://github.com/Sanjai-E242?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
 
 
 <p align="center">
+  <a href="https://github.com/Sanjai-E242">
+    View my GitHub profile and achievements
+  </a>
+</p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sanjai-E242?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/Sanjai-E242?tab=stars">
+    <img src="https://img.shields.io/badge/View-Starred_Projects-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects" />
+  </a>
+</p>
 
 ---
 🤝 Connect With Me
