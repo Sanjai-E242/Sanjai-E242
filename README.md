@@ -624,7 +624,15 @@ AWS, Oracle, and Cisco certifications can be added when completed credentials ar
 
 ## 12. Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sanjai-E242/Sanjai-E242/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
 
 ---
 🤝 Connect With Me
