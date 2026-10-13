@@ -102,398 +102,290 @@ Most of my learning comes through hands-on projects, internships, and hackathons
 
 ---
 
-## 04. Featured Projects
+## 🚀 Featured Projects
 
-My portfolio spans AI systems, machine learning, healthcare technology, data science, and full-stack development.
+My portfolio spans AI systems, machine learning, healthcare technology, data science, geospatial intelligence, and full-stack development.
 
-### 01. CareerPilot AI
+### 01. CareerPilot AI — Career Intelligence Platform
 
-<p>
-<a href="https://careerpilot-ai-nu-ochre.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_Application-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPilot AI demo"/></a>
-<a href="https://github.com/Sanjai-E242?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORY-Explore_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CareerPilot AI repository"/></a>
+<p align="left">
+  <a href="https://careerpilot-ai-nu-ochre.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_Application-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPilot AI live demo"></a>
+  <a href="REPLACE_WITH_CAREERPILOT_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="CareerPilot AI repository"></a>
 </p>
+
+An AI-powered career intelligence platform designed to help users understand career readiness and identify skill gaps.  
+Provides career matching, readiness scoring, personalized learning roadmaps, and job-matching capabilities.  
+Includes skill assessments, progress tracking, and gamification to support continuous career development.  
+The platform aims to connect existing skills with practical learning paths and career opportunities.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-CareerPilot AI is a career intelligence platform designed to help students understand their skills, identify skill gaps, explore potential career paths, and plan what to learn next.
-
-The concept uses AI-assisted analysis and a multi-agent workflow to organize career recommendations and personalized learning roadmaps.
-
-**Key Features**
-- Career matching and job matching.
-- Workforce readiness scoring.
-- Skill-gap analysis.
-- Personalized learning roadmaps.
-- Skill assessments.
-- Progress tracking.
-- Gamification-oriented learning experiences.
-- AI-assisted career analysis.
-
-**Technology Stack**
-
-`React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `OpenAI API` · `Tailwind CSS` · `Recharts`
-
-| Attribute | Details |
-|---|---|
-| Stack | React, TypeScript, Node.js, Express, MongoDB |
-| Scale | Student career intelligence platform |
-| Performance | No verified benchmark published |
-| Security | No independent security audit claimed |
-| Impact | Helps students organize career exploration and skill development |
-| Repository | [Explore my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | [Open CareerPilot AI](https://careerpilot-ai-nu-ochre.vercel.app/) |
+- **Domain:** Artificial Intelligence, Career Technology, Full-Stack Development
+- **Technologies:** React, TypeScript, Node.js, Express, MongoDB, OpenAI API, Tailwind CSS, Recharts
+- **Key features:** Career matching, skill-gap analysis, readiness scoring, learning roadmaps, progress tracking
+- **Objective:** Provide personalized, data-driven career guidance.
 
 </details>
+
+---
 
 ### 02. Sentinel AI 2.0 — AI Agent Runtime Control Layer
 
-<p>
-<a href="https://sentinel-2-frontend.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_Application-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Sentinel AI live demo"/></a>
-<a href="https://github.com/Sanjai-E242/sentinel-ai-2.0"><img src="https://img.shields.io/badge/REPOSITORY-View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sentinel AI repository"/></a>
+<p align="left">
+  <a href="https://sentinel-2-frontend.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_Application-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Sentinel AI live demo"></a>
+  <a href="https://github.com/Sanjai-E242/sentinel-ai-2.0"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Sentinel AI repository"></a>
 </p>
+
+A runtime security project designed to monitor AI agent actions and control potentially unsafe operations.  
+Uses a middleware-based approach to evaluate agent activities before allowing or blocking actions.  
+Includes an interactive interface for exploring runtime security workflows and an Acme Operations Sandbox.  
+Focuses on improving visibility, control, and accountability in AI agent execution.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-Sentinel AI 2.0 explores a runtime control layer for AI agents. It focuses on evaluating agent activity and risk signals to support intervention decisions and more observable execution workflows.
-
-**Key Engineering Areas**
-- Runtime monitoring and action evaluation.
-- Risk-aware permit-or-block workflows.
-- Agent request and session handling.
-- Policy enforcement concepts.
-- Dashboard and API integration.
-- Audit-oriented activity records.
-
-**Technology Stack**
-
-`TypeScript` · `React` · `Vite` · `Node.js` · `Express` · `AI Agent Workflows`
-
-| Attribute | Details |
-|---|---|
-| Stack | TypeScript, React, Vite, Node.js, Express |
-| Scale | AI agent runtime-control project |
-| Performance | No verified public benchmark published |
-| Security | Security-focused design; no independent audit claimed |
-| Impact | Explores safeguards for AI agent execution |
-| Repository | [Sentinel AI 2.0](https://github.com/Sanjai-E242/sentinel-ai-2.0) |
-| Live Demo | [Open Sentinel AI 2.0](https://sentinel-2-frontend.vercel.app/) |
+- **Domain:** AI Security, Agentic AI, Runtime Monitoring
+- **Technologies:** React, Vite, Node.js, and implemented middleware components
+- **Key features:** Agent action monitoring, allow/block decisions, security workflows, operations sandbox
+- **Objective:** Add a runtime control layer between AI agents and the actions they perform.
 
 </details>
+
+---
 
 ### 03. AgriSense Analytics — Crop Recommendation & Model Evaluation
 
-<p>
-<a href="https://agrisense-analytics.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_Application-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="AgriSense Analytics demo"/></a>
-<a href="https://github.com/Sanjai-E242/AgriSense-Analytics"><img src="https://img.shields.io/badge/REPOSITORY-View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="AgriSense repository"/></a>
+<p align="left">
+  <a href="https://agrisense-analytics.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-Open_Application-238636?style=for-the-badge&logo=render&logoColor=white" alt="AgriSense live demo"></a>
+  <a href="https://github.com/Sanjai-E242/AgriSense-Analytics"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="AgriSense repository"></a>
 </p>
+
+An agricultural analytics application that recommends suitable crops using soil nutrients and environmental parameters.  
+Evaluates nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall.  
+Implements and evaluates machine-learning approaches, including CART, Random Forest, and KNN.  
+Provides prediction history, model metrics, and input validation to support transparent crop recommendations.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-AgriSense Analytics is a crop recommendation and analytics application that combines dataset validation, machine learning algorithms, model evaluation, and a web-based interface.
-
-**Key Features**
-- Crop recommendations using soil NPK values, temperature, humidity, pH, and rainfall.
-- CSV schema and numeric-value validation.
-- Duplicate-row detection and reporting.
-- CART decision tree, Random Forest, and K-Nearest Neighbors.
-- Stratified train/test evaluation.
-- Cross-validation and model selection using macro-F1.
-- Accuracy, precision, recall, macro-F1, and confusion-matrix evaluation.
-- Prediction history and model metadata.
-
-**Technology Stack**
-
-`Python` · `NumPy` · `Pandas` · `Flask` · `HTML` · `CSS` · `JavaScript` · `Gunicorn`
-
-| Attribute | Details |
-|---|---|
-| Stack | Python, Flask, NumPy, Pandas, HTML, CSS, JavaScript |
-| Scale | Crop classification and decision-support application |
-| Performance | Evaluation metrics implemented; no fixed score claimed |
-| Security | Server-side dataset validation and explicit training approval workflow |
-| Impact | Makes crop recommendations and model evaluation accessible through a web application |
-| Repository | [AgriSense Analytics](https://github.com/Sanjai-E242/AgriSense-Analytics) |
-| Live Demo | [Open AgriSense Analytics](https://agrisense-analytics.onrender.com) |
+- **Domain:** Machine Learning, Agriculture, Data Analytics
+- **Technologies:** Python, NumPy, Pandas, Flask, HTML, CSS, JavaScript, Gunicorn
+- **Models:** CART, Random Forest, KNN
+- **Evaluation:** Accuracy, precision, recall, macro-F1, confusion matrix, cross-validation
+- **Key features:** Crop recommendation, dataset validation, prediction history, model evaluation, training approval
 
 </details>
+
+---
 
 ### 04. CarePulse AI — Care Coordination Platform
 
-<p>
-<a href="https://github.com/Sanjai-E242/Care-pulse"><img src="https://img.shields.io/badge/REPOSITORY-View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="CarePulse repository"/></a>
+<p align="left">
+  <a href="https://github.com/Sanjai-E242/Care-pulse"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="CarePulse AI repository"></a>
 </p>
+
+A care coordination application designed to organize observations, handovers, and communication between caregivers.  
+Focuses on identifying patterns in care-related observations and presenting information for better coordination.  
+Includes workflows for family communication, role-based views, guidance, and caregiver burnout monitoring.  
+Aims to make care information easier to manage and support more consistent caregiving.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-CarePulse is a healthcare-oriented care coordination application designed to organize observation analysis, pattern detection, handovers, caregiver burnout monitoring, guidance, and family coordination.
-
-**Key Features**
-- Observation analysis.
-- Pattern detection.
-- Care handover support.
-- Caregiver burnout monitoring.
-- Guidance workflows.
-- Family coordination.
-- Role-oriented views for caregivers and coordinators.
-- REST API documentation.
-
-**Technology Stack**
-
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Java 17` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `MySQL` · `Spring AI`
-
-| Attribute | Details |
-|---|---|
-| Stack | React, TypeScript, Java, Spring Boot, MySQL, Spring AI |
-| Scale | Multi-role care coordination prototype |
-| Performance | No verified benchmark published |
-| Security | Authentication and role-oriented workflows; no independent audit claimed |
-| Impact | Organizes care observations and coordination workflows |
-| Repository | [CarePulse AI](https://github.com/Sanjai-E242/Care-pulse) |
-| Live Demo | Not currently deployed |
+- **Domain:** Healthcare Technology, AI-Assisted Coordination, Full-Stack Development
+- **Frontend:** React 18, TypeScript, Vite, Tailwind CSS
+- **Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA, MySQL
+- **Additional components:** Spring AI agent services, Springdoc OpenAPI
+- **Key features:** Observation analysis, pattern detection, handovers, family coordination, role-based access
 
 </details>
+
+---
 
 ### 05. SpeakWise — Speech Analysis Engine
 
-<p>
-<a href="https://github.com/Sanjai-E242/Speakwise_Project"><img src="https://img.shields.io/badge/REPOSITORY-View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="SpeakWise repository"/></a>
+<p align="left">
+  <a href="https://github.com/Sanjai-E242/Speakwise_Project"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="SpeakWise repository"></a>
 </p>
+
+A speech-analysis application designed to support structured speaking practice and performance evaluation.  
+Provides an interface for audio recording, question-based activities, and feedback-oriented analysis workflows.  
+Includes authentication, protected routes, validation, and backend persistence for application data.  
+Combines a modern web interface with a Java backend to organize the speech-practice experience.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-SpeakWise is a full-stack speech-analysis application with a React frontend and a Java/Spring Boot backend.
-
-**Key Engineering Areas**
-- Speech-analysis workflows.
-- Audio-recording interface components.
-- Question and scoring interfaces.
-- Authentication context and protected routes.
-- REST API integration.
-- Request validation and database persistence.
-- Email integration.
-
-**Technology Stack**
-
-`React` · `Vite` · `Axios` · `Recharts` · `Java 17` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `MySQL` · `JWT` · `Spring Mail`
-
-| Attribute | Details |
-|---|---|
-| Stack | React, Vite, Java, Spring Boot, MySQL, JWT |
-| Scale | Full-stack speech-analysis application |
-| Performance | No verified benchmark published |
-| Security | Spring Security and JWT-based implementation components; no independent audit claimed |
-| Impact | Structures speech-related interactions in a web application |
-| Repository | [SpeakWise](https://github.com/Sanjai-E242/Speakwise_Project) |
-| Live Demo | Not currently deployed |
+- **Domain:** Speech Technology, Web Development, Learning Applications
+- **Frontend:** React, Vite, Axios, Recharts
+- **Backend:** Java 17, Spring Boot
+- **Additional technologies:** Spring Security, Spring Data JPA, MySQL, JWT, Spring Mail
+- **Key components:** Audio recording interface, question and scoring workflows, authentication, validation, persistence
 
 </details>
+
+---
 
 ### 06. ProductLife — Digital Product Passport
 
-<p>
-<a href="https://github.com/Sanjai-E242/ProductLife"><img src="https://img.shields.io/badge/REPOSITORY-View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="ProductLife repository"/></a>
+<p align="left">
+  <a href="https://github.com/Sanjai-E242/ProductLife"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="ProductLife repository"></a>
 </p>
+
+A digital product passport application designed to maintain structured information about a product throughout its lifecycle.  
+Supports QR-code generation and scanning to make product records easier to access.  
+Includes product passport management, repair records, and JSON export for data portability.  
+Promotes product traceability, lifecycle transparency, and circular-economy practices.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-ProductLife is a Digital Product Passport platform designed to make product information accessible throughout product ownership, maintenance, repair, and recycling.
-
-**Key Features**
-- Product registration and information management.
-- Public product exploration.
-- QR-code generation and scanning.
-- Digital passport views and JSON export.
-- Repair and maintenance records.
-- Administrative product workflows.
-- H2 persistence with optional MySQL configuration.
-
-**Technology Stack**
-
-`Java 17` · `Spring Boot` · `Spring Data JPA` · `React` · `Vite` · `H2` · `MySQL`
-
-| Attribute | Details |
-|---|---|
-| Stack | React, Vite, Java, Spring Boot, H2, MySQL |
-| Scale | Digital product passport and lifecycle-management platform |
-| Performance | No verified benchmark published |
-| Security | Administrative authentication workflow; no independent audit claimed |
-| Impact | Supports product traceability and circular-economy information access |
-| Repository | [ProductLife](https://github.com/Sanjai-E242/ProductLife) |
-| Live Demo | Not currently deployed |
+- **Domain:** Full-Stack Development, Product Traceability, Sustainability
+- **Frontend:** React, Vite
+- **Backend:** Java 17, Spring Boot, Spring Data JPA
+- **Database:** H2 / MySQL
+- **Key features:** Digital product passports, QR-code generation and scanning, repair records, JSON export
+- **Objective:** Make product lifecycle information more accessible and structured.
 
 </details>
+
+---
 
 ### 07. AI Health Symptom Checker
 
+<p align="left">
+  <a href="REPLACE_WITH_AI_HEALTH_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="AI Health Symptom Checker repository"></a>
+</p>
+
+A healthcare-focused AI concept that helps users explore possible explanations for reported symptoms through a conversational interface.  
+Designed around health-data preprocessing, exploratory analysis, and structured symptom collection.  
+Proposed components include an AI/ML layer, a user-friendly frontend, and secure data storage.  
+The goal is to support preliminary health information and guide users toward professional care, not replace medical diagnosis.
+
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-A hackathon project developed with Team STACK STORM at Origin Hackathon, SIMATS Engineering. The concept explored how AI could help users organize symptom information through a conversational interface.
-
-**Focus Areas**
-- Conversational symptom input.
-- Health-related data handling.
-- AI-assisted analysis concepts.
-- Data preprocessing and exploratory analysis.
-- User interface design.
-- Product flow planning.
-- Eight-sprint implementation roadmap.
-
-**Proposed Technology Stack**
-
-`Python` · `AI/ML` · `NLP` · `PostgreSQL` · `React` · `Flutter` · `OAuth 2.0`
-
-| Attribute | Details |
-|---|---|
-| Stack | Proposed AI/ML and web/mobile application technologies |
-| Scale | Hackathon prototype concept |
-| Performance | No verified benchmark published |
-| Security | No independent privacy or security audit claimed |
-| Impact | Explores more structured health-information interaction |
-| Repository | [Browse my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | Not currently listed |
-
-*Educational concept only; not a substitute for professional medical advice or diagnosis.*
+- **Domain:** AI, Healthcare Technology, NLP
+- **Proposed technologies:** Python, TensorFlow/PyTorch, React/Flutter, PostgreSQL
+- **Focus:** Symptom collection, data processing, conversational interaction, responsible health guidance
+- **Note:** Confirm which proposed components have been implemented before presenting them as completed features.
 
 </details>
+
+---
 
 ### 08. COVID-19 Data Analysis Dashboard
 
+<p align="left">
+  <a href="REPLACE_WITH_COVID_DASHBOARD_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="COVID-19 dashboard repository"></a>
+</p>
+
+A data analytics project that explores COVID-19 case, death, and recovery trends.  
+Uses Python data-processing libraries to clean datasets, summarize statistics, and identify patterns over time.  
+Interactive visualizations help users explore trends and compare reported outcomes across locations.  
+Turns raw public-health data into a clearer, more accessible analytical dashboard.
+
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-An interactive dashboard that extends COVID-19 data analysis into visual exploration of confirmed cases, deaths, recoveries, trends, and country-level patterns. The project grew from work undertaken during my Data Science internship.
-
-**Key Features**
-- Data cleaning and preprocessing.
-- Exploratory data analysis.
-- Statistical summaries.
-- Case, death, and recovery trends.
-- Country-wise analysis.
-- Geographic visualization.
-- Interactive charts.
-
-**Technology Stack**
-
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit`
-
-| Attribute | Details |
-|---|---|
-| Stack | Python, Pandas, NumPy, Streamlit, Plotly |
-| Scale | Interactive data science dashboard |
-| Performance | No verified benchmark published |
-| Security | No independent audit claimed |
-| Impact | Makes historical epidemiological data easier to explore |
-| Repository | [Browse my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | Not currently listed |
+- **Domain:** Data Science and Visualization
+- **Technologies:** Python, Pandas, NumPy, Streamlit, Matplotlib, Seaborn, Plotly
+- **Key areas:** Data cleaning, exploratory data analysis, trend visualization, interactive reporting
+- **Output:** Interactive COVID-19 analytics dashboard
 
 </details>
+
+---
 
 ### 09. ATM Cash Demand Forecasting
 
+<p align="left">
+  <a href="REPLACE_WITH_ATM_FORECASTING_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="ATM forecasting repository"></a>
+</p>
+
+A Big Data mini project focused on forecasting ATM cash demand to support better cash replenishment planning.  
+Designed to analyze historical transaction and cash-demand patterns to understand usage trends.  
+The forecasting workflow aims to help reduce cash shortages and unnecessary replenishment trips.  
+The project is being developed in phases, with final methods and results depending on the implemented pipeline.
+
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-A Big Data mini project focused on analyzing ATM cash demand and exploring forecasting workflows to support cash replenishment planning.
-
-**Engineering Focus**
-- Dataset preparation and processing.
-- Demand-pattern analysis.
-- Forecasting workflow development.
-- Data-driven replenishment planning.
-- Project organization and version control.
-
-| Attribute | Details |
-|---|---|
-| Stack | Python and data-processing tools |
-| Scale | Big Data academic mini project |
-| Performance | Forecast accuracy not yet verified |
-| Security | No independent audit claimed |
-| Impact | Explores data-driven ATM cash planning |
-| Repository | [Browse my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | Not currently listed |
+- **Domain:** Big Data Analytics and Forecasting
+- **Focus:** Transaction data processing, demand patterns, forecasting, analytical reporting
+- **Objective:** Support data-driven ATM cash management
+- **Status:** In development; update the technology list to match the final implementation.
 
 </details>
+
+---
 
 ### 10. SatQuery AI — Multimodal Remote Sensing Assistant
 
+<p align="left">
+  <a href="REPLACE_WITH_SATQUERY_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="SatQuery AI repository"></a>
+</p>
+
+A proposed vision-language assistant for exploring and understanding satellite imagery through natural-language questions.  
+Designed to connect remote-sensing images with AI-based visual understanding and geospatial analysis.  
+The planned workflow combines image processing, geospatial data tools, and a conversational interface.  
+Its goal is to make satellite imagery easier to query and interpret for environmental and land-use analysis.
+
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-SatQuery AI is a vision-language assistant concept for exploring satellite imagery and geospatial information through natural-language interaction.
-
-**Engineering Focus**
-- Satellite image exploration.
-- Multimodal AI workflows.
-- Geospatial data processing.
-- Map-based visualization.
-- Remote-sensing dataset exploration, including BigEarthNet.
-
-**Planned Technology Stack**
-
-`Python` · `FastAPI` · `PyTorch` · `Hugging Face` · `Vision-Language Models` · `Rasterio` · `GeoPandas` · `GDAL` · `Leaflet` · `PostgreSQL` · `PostGIS`
-
-| Attribute | Details |
-|---|---|
-| Stack | Python, AI/ML, geospatial tooling |
-| Scale | Multimodal remote-sensing assistant concept |
-| Performance | No verified model benchmark published |
-| Security | No independent audit claimed |
-| Impact | Aims to simplify access to satellite imagery insights |
-| Repository | [Browse my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | Not currently listed |
+- **Domain:** Multimodal AI, Computer Vision, Geospatial Analytics
+- **Proposed technologies:** React/Next.js, Python, FastAPI, PyTorch, Hugging Face
+- **Geospatial tools:** Rasterio, GeoPandas, GDAL, Leaflet/Mapbox, PostgreSQL/PostGIS
+- **Dataset explored:** BigEarthNet
+- **Status:** Proposed architecture; distinguish implemented features from planned features.
 
 </details>
+
+---
 
 ### 11. College Transport Allocation System
 
+<p align="left">
+  <a href="REPLACE_WITH_TRANSPORT_SYSTEM_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="College Transport Allocation System repository"></a>
+</p>
+
+A college transport management application designed to organize student registrations and transport assignments.  
+Includes workflows for managing buses, routes, student allocations, and trip or attendance records.  
+Lookup relationships connect students, routes, and buses to reduce inconsistent data entry.  
+The system aims to make transport administration and record tracking more structured and efficient.
+
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-A college transport management application organized around five functional areas:
-
-- Student Registrations.
-- Bus Management.
-- Route Management.
-- Student Transport Allocations.
-- Trip and Attendance Records.
-
-The system focuses on structured relationships between students, buses, routes, allocations, and attendance records.
-
-| Attribute | Details |
-|---|---|
-| Stack | Application and database technologies used in the implementation |
-| Scale | Academic transport management system |
-| Performance | No verified benchmark published |
-| Security | No independent audit claimed |
-| Impact | Organizes transport allocation and trip records |
-| Repository | [Browse my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | Not currently listed |
+- **Domain:** Full-Stack Development and Database Management
+- **Core modules:** Student Registrations, Bus Management, Route Management, Student Transport Allocations, Trip and Attendance Records
+- **Objective:** Organize transport records and maintain relationships between operational entities
+- **Status:** Update the stack and implementation details to reflect your actual application.
 
 </details>
 
+---
+
 ### 12. Daily Habit Tracker
+
+<p align="left">
+  <a href="REPLACE_WITH_HABIT_TRACKER_REPOSITORY_URL"><img src="https://img.shields.io/badge/GITHUB-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Daily Habit Tracker repository"></a>
+</p>
+
+A web application concept for recording daily habits and maintaining consistent routines.  
+Designed to help users track completed activities and review their progress over time.  
+A clear dashboard can make daily records easier to understand and encourage consistent habit-building.  
+The final feature set should reflect the tracking, progress, and storage functionality implemented in the application.
 
 <details>
 <summary><strong>Project Overview & Technical Details</strong></summary>
 
-A Web Technology and Mobile Applications mini-project concept focused on recording daily habits and helping users track progress through a web interface.
-
-| Attribute | Details |
-|---|---|
-| Stack | Web development technologies |
-| Scale | Academic mini project |
-| Performance | No verified benchmark published |
-| Security | No independent audit claimed |
-| Impact | Supports daily habit organization |
-| Repository | [Browse my repositories](https://github.com/Sanjai-E242?tab=repositories) |
-| Live Demo | Not currently listed |
+- **Domain:** Web Development and Productivity
+- **Purpose:** Daily habit recording and progress tracking
+- **Potential features:** Habit creation, completion tracking, progress summaries, history
+- **Status:** Update the technology stack and feature list to match your working project.
 
 </details>
 
